@@ -11,72 +11,24 @@
 Administrator Manual
 ====================
 
-Target group: **Administrators**
-
-Describes how to manage the extension from an administrator point of view.
-That relates to Page/User TSconfig, permissions, configuration etc.,
-which administrator level users have access to.
-
-Language should be non / semi-technical, explaining, using small examples.
-
-
 .. _admin-installation:
 
 Installation
 ------------
 
-- How should the extension be installed?
-- Are they dependencies to resolve?
-- Is it a static template file to be included?
-
-To install the extension, perform the following steps:
-
-#. Go to the Extension Manager
-#. Install the extension
-#. Load the static template
-#. ...
-
-For a list of configuration options, using a definition list is recommended:
-
-Some Configuration
-  This option enables...
-
-Other configuration
-  This other option is for all the rest...
-
-
-.. figure:: ../Images/AdministratorManual/ExtensionManager.png
-   :alt: Extension Manager
-
-   Extension Manager (caption of the image)
-
-   List of extensions within the Extension Manager also shorten with "EM" (legend of the image)
-
+It's recommended to install this TYPO3 Extension by composer
 
 .. _admin-configuration:
 
 Configuration
 -------------
 
-* Where and how the extension should be configured? TypoScript? PHP?
+Add the static template `Abexto Schema.Org Breadcrumb` to your root template.
 
-* Are there other prerequisite to full fill beforehand?
-  For example, configure a setting in a special way somewhere.
+This static template defines the TypoScript object `lib.abexto.schemaorg.breadcrumb`, 
+which generates the Breadcrumb-Json and 
 
+`page.1561473085 =< lib.abexto.schemaorg.breadcrumb.json` 
 
-.. _admin-faq:
+to add it to the page.
 
-FAQ
----
-
-Possible subsection: FAQ
-
-Subsection
-^^^^^^^^^^
-
-Some subsection
-
-Sub-subsection
-""""""""""""""
-
-Deeper into the structure...

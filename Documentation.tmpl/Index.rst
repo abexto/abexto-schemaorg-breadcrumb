@@ -55,9 +55,4 @@ Abexto Schema.Org Breadcrumbs
 
 	Introduction/Index
 	Administrator/Index
-	Configuration/Index
-	Developer/Index
-	KnownProblems/Index
-	ToDoList/Index
-	ChangeLog/Index
 	Links

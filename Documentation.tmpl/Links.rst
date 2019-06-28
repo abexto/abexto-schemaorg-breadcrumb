@@ -19,6 +19,3 @@ Links
 
 :Git Repository:
 	https://github.com/<username>/<extension key>
-
-:Contact:
-	`@<username> <https://twitter.com/your-username>`__
