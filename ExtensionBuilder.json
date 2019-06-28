@@ -13,7 +13,7 @@
             "sourceLanguage": "en",
             "state": "alpha",
             "targetVersion": "9.5.0-9.5.99",
-            "version": "0.0.1"
+            "version": "0.0.3"
         },
         "extensionKey": "abexto_schemaorg_breadcrumb",
         "name": "Abexto Schema.Org Breadcrumbs",
