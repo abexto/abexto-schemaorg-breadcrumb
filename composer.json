@@ -1,7 +1,7 @@
 {
     "name": "abexto/abexto-schemaorg-breadcrumb",
     "type": "typo3-cms-extension",
-    "keywords: ["schema.org", "typo3", "seo", "extension", "breadcrumb", "schema", "TypoScript", "json", "json-ld"],
+    "keywords": ["schema.org", "typo3", "seo", "extension", "breadcrumb", "schema", "TypoScript", "json", "json-ld"],
     "description": "Generates http://schema.org/BreadcrumbList data for as JSON-LD",
     "authors": [
         {
