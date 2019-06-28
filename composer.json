@@ -1,0 +1,31 @@
+{
+    "name": "abexto/abexto-schemaorg-breadcrumb",
+    "type": "typo3-cms-extension",
+    "keywords: ["schema.org", "typo3", "seo", "extension", "breadcrumb", "schema", "TypoScript", "json", "json-ld"],
+    "description": "Generates http://schema.org/BreadcrumbList data for as JSON-LD",
+    "authors": [
+        {
+            "name": "Andreas Prucha",
+            "role": "Developer",
+            "email": "andreas.prucha@gmail.com",
+            "homepage": "http://www.abexto.com"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abexto\\T3\\SchemaOrgBreadcrumb\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Abexto\\T3\\SchemaOrgBreadcrumb\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "abexto_schemaorg_breadcrumb": "self.version",
+        "typo3-ter/abexto-schemaorg-breadcrumb": "self.version"
+    }
+}

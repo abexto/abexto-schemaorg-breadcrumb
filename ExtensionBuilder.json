@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Generates http:\/\/schema.org\/BreadcrumbList data for pages in JSON-LD format",
+        "emConf": {
+            "category": "misc",
+            "custom_category": "",
+            "dependsOn": "typo3 => 9.5.0-9.99.99\n",
+            "disableLocalization": true,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "9.5.0-9.5.99",
+            "version": "0.0.1"
+        },
+        "extensionKey": "abexto_schemaorg_breadcrumb",
+        "name": "Abexto Schema.Org Breadcrumbs",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "Abexto - Helicon Software Development",
+                "email": "andreas.prucha@gmail.com",
+                "name": "Andreas Prucha",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Abexto"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2019-06-19 02:09",
+        "extension_builder_version": "9.10.0",
+        "be_user": " (1)"
+    }
+}
