@@ -11,9 +11,9 @@
             "disableVersioning": false,
             "skipGenerateDocumentationTemplate": false,
             "sourceLanguage": "en",
-            "state": "alpha",
+            "state": "stable",
             "targetVersion": "9.5.0-9.5.99",
-            "version": "0.0.3"
+            "version": "0.1.1"
         },
         "extensionKey": "abexto_schemaorg_breadcrumb",
         "name": "Abexto Schema.Org Breadcrumbs",

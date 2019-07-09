@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2019, Andreas Prucha (Abexto - Helicon Software Development)
+Copyright (c) 2019, [Andreas Prucha (Abexto - Helicon Software Development)](http://www.abexto.com)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
